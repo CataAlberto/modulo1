@@ -1,2 +1,14 @@
-# modulo1
-Carpeta de Catalina Alberto con el modulo1 del grupo Koala
+# Modulo1
+## Koala
+
+Carpeta de Catalina Alberto con el modulo 1 del grupo Koala
+
+
+
+
+* Catalina Alberto
+* Macarena Vacas
+* Dalia Orlinski
+* Victoria Silva
+* Andres Soria
+  
